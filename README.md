@@ -13,7 +13,7 @@
                 <img src="agr.png" alt="agr" height="71px" width="240px">
             </div>
             <ul class="navigation">
-                <li><a>login</a></li>
+                <li><a>berkunjung</a></li>
                 <li><a class="daftar">daftar</a></li>
             </ul>
         </nav>
